@@ -156,7 +156,69 @@ You should provide ways for people who can’t access the service online to get 
 
 At the start of a service which involves the user inputting information in order to get something. For example, at the start of an application form.
 
-\
+### Asking users for consent
+
+Use these patterns to give user’s control over how you manage their data. These patterns align with the [GovStack Consent building block](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/MhCVws4MKdm6FWXf006q/).
+
+#### How it works
+
+Consent covers all activities done for the same reason. If you use the data for more than one reason, get separate consent for each. For example, accessing data to check eligibility is separate to accessing data to make an application.
+
+Use these patterns when you need to:
+
+* To access a user’s data
+* To store, manage or share a user’s data
+* Allow users to manage the data you hold on them
+
+
+
+<figure><img src=".gitbook/assets/Example consent flow (1).png" alt=""><figcaption><p>An example consent user journey</p></figcaption></figure>
+
+The image above shows an example user journey where a user:
+
+1. starts a service
+2. gives consent to access their data to perform an eligibility check and proceeds
+3. refuses consent to access data to make the application
+4. Confirms they do not want to give consent
+5. Continues an alternative journey
+
+#### When not to use these patterns
+
+If the data is required for government to perform a specific task or function set out in law, you do not need to ask for consent. For example, terms and conditions — these are required so you do not need to ask for consent.
+
+#### Consent to access or manage data
+
+<figure><img src=".gitbook/assets/Consent page (1).png" alt=""><figcaption><p>A wireframe of an example consent page</p></figcaption></figure>
+
+**Why we ask to share this data**\
+Explain what data you are requesting and the benefit to the user for sharing that data. For example, “Provide your location data so that we can tailor offers relevant to you”
+
+**About the data**
+
+Be clear about:
+
+* What data you need
+* Why you need it
+* The benefit to the user
+* How the data will be used
+* What duration
+
+**Confirm or reject**
+
+This could be buttons or radio buttons but you should consider how the user can continue the transaction in the case they do not consent to share information.
+
+If users reject the consent request, consider reiterating how this will effect the user journey and ask them to confirm the choice.
+
+**How to manage or revoke access**
+
+Give details for how to manage data if the user changes their mind.
+
+#### Details for information
+
+When asking users information during questions flow consider using progressive disclosure drop-downs or inline content to explain why you are asking for that information and how you will handle the data.
+
+<figure><img src=".gitbook/assets/Details for information (1).png" alt=""><figcaption><p>A wireframe of an example progressive disclosure details pattern</p></figcaption></figure>
+
 \
 \
 \
