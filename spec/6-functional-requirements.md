@@ -118,7 +118,42 @@ Resources:
 
 * [designing for a global audience.](https://www.nngroup.com/articles/crosscultural-design/)
 
-\
+## Patterns for the common workflows
+
+### **List of available patterns**&#x20;
+
+\[Content required]
+
+### **Considerations for choosing different patterns**
+
+\[Content required]
+
+### &#x20;Start page
+
+<figure><img src=".gitbook/assets/Start page (1).png" alt=""><figcaption><p>A wireframe of a typical start page</p></figcaption></figure>
+
+#### How it works
+
+**Service name**
+
+This helps people understand what your service does and whether they need to use it.
+
+**Documents and any fees required**
+
+A list of things most users need to know: for example, what your service is, what will happen, what users will get or how much it'll cost. To keep the content concise, do not include details about anything that would be obvious to users.
+
+**A call-to-action**
+
+There should be a clear call to action button to start the service, usually “Start now”. You should also include a link to “sign in” or “continue journey” if the user is able to continue an existing journey.
+
+**Other ways to access the service**
+
+You should provide ways for people who can’t access the service online to get support, for example, by phone or text relay. You may also include details for support channels.
+
+#### **When to use this pattern**
+
+At the start of a service which involves the user inputting information in order to get something. For example, at the start of an application form.
+
 \
 \
 \
