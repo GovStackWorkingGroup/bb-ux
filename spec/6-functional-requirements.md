@@ -130,6 +130,8 @@ Resources:
 
 ### &#x20;Start page
 
+Use this pattern to help users check if they are ready to start a service.
+
 <figure><img src=".gitbook/assets/Start page (1).png" alt=""><figcaption><p>A wireframe of a typical start page</p></figcaption></figure>
 
 #### How it works
