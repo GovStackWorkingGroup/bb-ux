@@ -128,11 +128,11 @@ Resources:
 
 \[Content required]
 
-### &#x20;Start page
+### &#x20;Service Sheet
 
 Use this pattern to help users check if they are ready to start a service.
 
-<figure><img src=".gitbook/assets/Start page (1).png" alt=""><figcaption><p>A wireframe of a typical start page</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Service sheet.png" alt=""><figcaption></figcaption></figure>
 
 #### How it works
 
@@ -152,7 +152,7 @@ There should be a clear call to action button to start the service, usually “S
 
 You should provide ways for people who can’t access the service online to get support, for example, by phone or text relay. You may also include details for support channels.
 
-#### **When to use this pattern**
+**When to use this pattern**
 
 At the start of a service which involves the user inputting information in order to get something. For example, at the start of an application form.
 
