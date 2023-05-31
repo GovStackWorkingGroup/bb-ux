@@ -219,11 +219,98 @@ When asking users information during questions flow consider using progressive d
 
 <figure><img src=".gitbook/assets/Details for information (1).png" alt=""><figcaption><p>A wireframe of an example progressive disclosure details pattern</p></figcaption></figure>
 
+### &#x20;Check eligibility
+
+Use this pattern to help the user check if users qualify for your service.
+
+This pattern helps to save users time registering for a service they would not qualify for in the first place and directing them to alternative options if possible.
+
+#### How it works
+
+To use this pattern you need to have:
+
+* A service information sheet
+* A series of simple eligibility questions
+* An understanding of what existing data you can integrate with
+
+**Service information sheet**
+
+Have a web page for your service where people can find the required information about the service. Such as requirements to access the service, actions and steps they need to start using your service. Check an example of a service information sheet.
+
+Ensure to include general rules and information about whether the service can be used such as age limit.
+
+**A series of simple eligibility questions**
+
+Present the user with a series of simple questions that can determine their eligibility. Use questions when the eligibility criteria for the service is complex and require detailed information to determine if a user qualifies.&#x20;
+
+Ask the user to provide information such as their age, location, employment status, income level, or other relevant details to your service. Follow the question page pattern.&#x20;
+
+**Automatically check if a user is eligible**
+
+the system should automatically process the information provided and determine whether the user is eligible to access the feature or service.
+
+**An outcome page**
+
+* Eligibility outcome that clearly states whether the user is eligible or ineligible to access the service or feature.&#x20;
+* Reason for eligibility determination such as a clear explanation if the user is found to be ineligible. This can include information such as incomplete or incorrect information provided in the form, not meeting certain age or income requirements, or other criteria.
+* Next steps depending on the outcome of the eligibility check. For example, if the user is found to be eligible, direct them to the next step which may be to register for the service. If they are found to be ineligible, direct them to another service or further guidance.&#x20;
+
+Here are some elements that can be included on the outcome page:
+
+Present an outcome page to users to let them know the result of their eligibility check. The outcome page should provide a clear and concise summary of the user's eligibility status. If eligible, you should let the user know of the next steps to access the service. If the user is not eligible, let them know why and what they should do instead.&#x20;
+
+* Eligibility outcome that clearly states whether the user is eligible or ineligible to access the service or feature.&#x20;
+* Reason for eligibility determination such as a clear explanation if the user is found to be ineligible. This can include information such as incomplete or incorrect information provided in the form, not meeting certain age or income requirements, or other criteria.
+* Next steps depending on the outcome of the eligibility check. For example, if the user is found to be eligible, direct them to the next step which may be to register for the service. If they are found to be ineligible, direct them to another service or further guidance.&#x20;
+
+<figure><img src=".gitbook/assets/Example eligibility flow.png" alt=""><figcaption><p>Asking for eligibility flow diagram</p></figcaption></figure>
+
+**When to use this pattern**
+
+Services where eligibility criteria can be complex and may vary depending on the specific service or feature being accessed. By using the "check eligibility" pattern, users can quickly and easily determine whether they qualify for a particular service, without having to go through a lengthy application process or wait for manual approval.
+
+### &#x20;**Ask users for information**
+
+Use this pattern to gather information from users using your service.  Clearly state why you need the information and how it will be used. For instance, you might need users' information so that you can provide a service, register them for a service, or tailor an experience to meet their needs.&#x20;
+
+Consider whether you need to ask for the information or whether you can use integrations to get that data from internal or external sources. Check whether you need to ask for [consent](https://docs.google.com/document/d/1kjLic18ifk\_MpcGdHBFBhKA0OlYCLrynF23-9qr7s-U/edit#heading=h.vyy08tdvrne0) to ask the questions.
+
+You can use a [question protocol](https://www.uxmatters.com/mt/archives/2010/06/the-question-protocol-how-to-make-sure-every-form-field-is-necessary.php) to help you figure out what you need to ask. \
 \
-\
-\
-\
-\
+If you ask people for optional information, add ‘(optional)’ to the question. Do not mark mandatory questions with asterisks as these are not accessible.&#x20;
+
+#### &#x20;Question page
+
+<figure><img src=".gitbook/assets/Question page (1).png" alt=""><figcaption></figcaption></figure>
+
+**Service name**
+
+Indicate the service on the page banner to help people know and recognise which service they are on. This will help to assure users they are on the correct page and they can be confident to answer questions, especially those asking for personal information.
+
+**Back link**
+
+A question page should have a back link to help users who may want to go back to the previous question to make any changes.
+
+**Question or question heading**
+
+When asking people for information, ask for one thing at a time. Helps users focus on one specific thing at a time and provide its answers without overwhelming them with too many demands at once.
+
+This can be one question per page or group related questions together, for example, contact details. Grouping related questions together can help users understand the context of each question and make it easier to provide accurate responses. When you group related questions together, you will have a ‘question heading’ that will help people understand what is needed for the set of questions.
+
+**Hint text**
+
+Provide clear instructions to help users understand what is expected of them on each question.
+
+**Question field**
+
+Use the appropriate question field for the different question types
+
+**Other ways to provide information**
+
+Always provide other alternative mechanisms for users to identify themselves or provide their information so that they can access your service.\
+Provide clear instructions on what to do if they encounter any problems.\
+
+
 
 
 ####
