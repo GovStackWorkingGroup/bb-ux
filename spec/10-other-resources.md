@@ -18,4 +18,4 @@ A historical log of key decisions regarding this Building Block can be found her
 
 ## 10.3 Future Considerations
 
-A list of topics that may be relevant to future versions of this Building Block are documented here: [https://govstack-global.atlassian.net/wiki/spaces/GH/pages/183205908/Future+Considerations+Consent](https://govstack-global.atlassian.net/wiki/spaces/GH/pages/183205908/Future+Considerations+Consent)
+A list of topics that may be relevant to future versions of this Building Block are documented here: [https://govstack-global.atlassian.net/wiki/spaces/GH/pages/265027591/Future+Considerations](https://govstack-global.atlassian.net/wiki/spaces/GH/pages/265027591/Future+Considerations)
