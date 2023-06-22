@@ -1,8 +1,8 @@
 # Table of contents
 
 * [UI/UX Specifications](README.md)
-* [1 Version History](1-version-history.md)
-* [2 Description](2-description.md)
+* [Version History](1-version-history.md)
+* [Description](2-description.md)
 
 ## Service design standards
 
@@ -24,4 +24,4 @@
 
 ***
 
-* [10 Other Resources](10-other-resources.md)
+* [Other Resources](10-other-resources.md)

@@ -4,9 +4,9 @@ description: >-
   building blocks.
 ---
 
-# 2 Description
+# Description
 
-### Introduction
+## Introduction
 
 The UI/UX working group has developed this guidance to kick-start the design and development of services using the GovStack building blocks.
 
@@ -14,7 +14,7 @@ This guidance supports teams identify and implement the foundations for designin
 
 This guidance is intended to help teams align to the [GovStack Design Principles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/govstack-design-principles) and the [Implementation Playbook](https://govstack.gitbook.io/implementation-playbook/).
 
-### Current scope
+## Current scope
 
 Specifications for how to implement accessible, responsive, multi-modal building blocks and providing a consistent service.
 
@@ -23,15 +23,15 @@ Specifications for how to implement accessible, responsive, multi-modal building
 * Guidance on technical choices, like how to design for low bandwidth, high latency environments or unreliable connectivity
 * patterns for managing client-side validation
 
-#### Service design standards
+### Service design standards
 
 The standards act as a template checklist for assuring the quality of a service's design and delivery. Each point in the standard has, or links to additional guidance.
 
-#### Service patterns
+### Service patterns
 
 We chose to define high-level service patterns rather than anything more specific like a design system or user interface components, this is to maintain flexibility to work around each organisation's needs and existing design assets and front-end frameworks.
 
-### Out of scope
+## Out of scope
 
 Developing tools for implementing design patterns like:
 
@@ -39,7 +39,7 @@ Developing tools for implementing design patterns like:
 * user interface components or code
 * styleguides
 
-### Get involved
+## Get involved
 
 We are looking for practitioners from around the world to give feedback and critique to our work or input directly. Most people involved are using time volunteered by their place of work.
 
