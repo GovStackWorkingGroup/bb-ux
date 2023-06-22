@@ -1,24 +1,23 @@
 ---
-description: >-
-  Consistency in design elements, language, and terminology is important for
-  creating a cohesive and user-friendly digital government service that meets
-  the needs of its users, while also aligning with
+description: Create user-friendly services that build trust
 ---
 
 # Consistency
 
-#### Things You Must Do:
+## Use simple language
 
-* Use patterns provided with the building blocks, unless research clearly indicates a need to diverge from them.
+Use consistent language and terminology throughout the design to ensure clarity and understanding for users.
 
-#### Considerations:
+Use simple and clear language, following the principles of the UK government's Content Design guidance (https://www.gov.uk/guidance/content-design), to ensure that content is accessible and easy to understand for all users. \[[Using simple and clear language](https://www.gov.uk/guidance/content-design)]
 
-* Use a consistent style guide, if your organisation has one, to ensure consistency in visual elements, typography, colour schemes, and other design elements.
-* Use consistent language and terminology throughout the design to ensure clarity and understanding for users.
-* Use simple and clear language, following the principles of the UK government's Content Design guidance (https://www.gov.uk/guidance/content-design), to ensure that content is accessible and easy to understand for all users.
+## Reuse existing styles and patterns
 
-#### Resources:
+Implement a common style-guide and frontend framework across services \[how to document styles, how to choose a front end framework]
 
-* Example implementation design patterns
-* Choosing frontend frameworks
-* [Using simple and clear language](https://www.gov.uk/guidance/content-design)
+Use patterns provided with the building blocks, unless research clearly indicates a need to diverge from them.
+
+Use a consistent style guide, if your organisation has one, to ensure consistency in visual elements, typography, colour schemes, and other design elements.
+
+## Document and share design decisions
+
+Share research findings and product progress with team members, senior members or strategic leaders, and even the general public whenever practical. \[resource on design documentation/sharing with teams]
