@@ -20,7 +20,7 @@ Specifications for how to implement accessible, responsive, multi-modal building
 
 * Guidelines for designing interfaces, like meeting WCAG accessibility guidelines
 * Screen flows for common user journeys, like registration
-* Guidance on technical choices, like how to design for low bandwidth, high latency environments or unreliable connectivity
+* Guidance on technical choices, like how to design for low bandwidth, high latency environments or unreliable connectivity, local storage and local persistence of data, security using DOMs etc
 * patterns for managing client-side validation
 
 ### Service design standards
@@ -39,9 +39,5 @@ Developing tools for implementing design patterns like:
 * user interface components or code
 * styleguides
 
-## Get involved
 
-We are looking for practitioners from around the world to give feedback and critique to our work or input directly. Most people involved are using time volunteered by their place of work.
-
-If you are looking to get involved reach out to laurence@wearekomo.com or betty.mwema@digital.cabinet-office.gov.uk.
 
