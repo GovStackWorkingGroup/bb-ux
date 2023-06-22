@@ -6,7 +6,7 @@ description: Balancing technical and user needs
 
 ## Balance security and privacy
 
-Choose proportionate security to control and monitor your technology programme. Security should protect your information technology and digital services, and enable users to access the data they need for their work.
+Choose proportionate security to control and monitor your technology programme. Security should protect your information technology and digital services, and enable users to access the data they need for their work. \[Refer to security document as an example]
 
 Make sure citizens’ rights are protected by integrating privacy as an essential part of your system.
 

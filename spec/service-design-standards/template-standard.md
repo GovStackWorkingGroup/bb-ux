@@ -1,3 +1,7 @@
+---
+description: A checklist for assuring the quality of a service
+---
+
 # Template standard
 
 ## User centred design
