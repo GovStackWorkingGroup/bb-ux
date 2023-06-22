@@ -16,6 +16,7 @@
 
 * [Overview](service-patterns/overview.md)
 * [Service patterns](service-patterns/service-patterns.md)
+* [Use-case examples](service-patterns/use-case-examples.md)
 * [Service sheet](service-patterns/service-sheet.md)
 * [Asking users for consent](service-patterns/asking-users-for-consent.md)
 * [Check a users eligibility](service-patterns/check-a-users-eligibility.md)
