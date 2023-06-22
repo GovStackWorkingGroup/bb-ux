@@ -14,7 +14,7 @@
 
 ## Service patterns
 
-* [Overview](service-patterns/overview.md)
+* [Get started using patterns](service-patterns/get-started-using-patterns.md)
 * [Service patterns](service-patterns/service-patterns/README.md)
   * [Service catalogue](service-patterns/service-patterns/service-catalogue.md)
   * [Service sheet](service-patterns/service-patterns/service-sheet.md)
