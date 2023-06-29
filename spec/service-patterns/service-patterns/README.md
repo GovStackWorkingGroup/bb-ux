@@ -1,8 +1,8 @@
 # Service patterns
 
-Example service patterns:
+## Example service flows
 
-* [Apply for a construction permit](./#apply-for-a-construction-permit)
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="./#apply-for-a-construction-permit">Apply for a construction permit</a></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 ## Apply for a construction permit
 
