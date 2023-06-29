@@ -50,6 +50,7 @@
   * [Pay](service-patterns/service-patterns/pay.md)
   * [Find](service-patterns/service-patterns/find.md)
 * [Design patterns](service-patterns/design-patterns/README.md)
+  * [Privacy policy](service-patterns/design-patterns/privacy-policy.md)
   * [Service catalogue](service-patterns/design-patterns/service-catalogue.md)
   * [Service sheet](service-patterns/design-patterns/service-sheet.md)
   * [Check a users eligibility](service-patterns/design-patterns/check-a-users-eligibility.md)
