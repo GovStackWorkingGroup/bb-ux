@@ -2,6 +2,14 @@
 
 <figure><img src="../.gitbook/assets/How our patterns work.png" alt=""><figcaption><p>A diagram showing how the design patterns fit into the service patterns</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>A diagram showing how the design patterns fit into the service patterns</p></figcaption></figure>
+
+##
+
+##
+
+##
+
 ## **Considerations for choosing different patterns**
 
 ### **Step by step guide to help you pick the right patterns for your service:**&#x20;
