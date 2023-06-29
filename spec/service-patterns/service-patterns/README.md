@@ -1,11 +1,40 @@
 # Service patterns
 
-## Registration service pattern
+Example service patterns:
 
+* [Apply for a construction permit](./#apply-for-a-construction-permit)
 
+## Apply for a construction permit
 
-<table data-header-hidden><thead><tr><th width="151"></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>User flow</strong></td><td>Find service</td><td>Eligibility</td><td>Authentication</td><td>Application</td><td>Confirmation</td></tr><tr><td><strong>Pattern</strong></td><td><ul><li>Service catalogue</li><li><a href="service-sheet.md">Service sheet</a></li></ul></td><td>• <a href="check-a-users-eligibility.md">Eligibility</a></td><td>• Authentication</td><td>• <a href="asking-users-for-information.md">Asking for information</a></td><td>• Confirmation</td></tr><tr><td><strong>Building blocks</strong></td><td></td><td>• Registration</td><td>• Registration<br>• Identity</td><td>• Registration</td><td></td></tr><tr><td><strong>Example implementation</strong></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+\[intro to this pattern]
 
+<figure><img src="../../.gitbook/assets/Choosing your patterns.png" alt=""><figcaption><p>An example service pattern based on the 'apply for a construction permit' service</p></figcaption></figure>
 
+### Actors
 
-\
+* Architect
+* ???
+
+### Steps
+
+Apply:
+
+* Find the service
+* Register or authenticate
+* Submit application (including answering questions and uploading documents)
+* Receive the outcome of a decision
+
+If outcome is successful:
+
+* Get notification for payment
+* Make payment
+* Give feedback
+
+### Patterns used
+
+* [Find](find.md)
+* [Register](register.md)
+* [Apply](apply.md)
+* [Pay](pay.md)
+* [Give feedback](../design-patterns/asking-users-for-feedback.md)
+

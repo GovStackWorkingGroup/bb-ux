@@ -23,9 +23,11 @@ Specifications for how to implement accessible, responsive, multi-modal building
 * Guidance on technical choices, like how to design for low bandwidth, high latency environments or unreliable connectivity, local storage and local persistence of data, security using DOMs etc
 * patterns for managing client-side validation
 
-### Service design standards
 
-The standards act as a template checklist for assuring the quality of a service's design and delivery. Each point in the standard has, or links to additional guidance.
+
+### Service design good practice guidelines
+
+The guidelines act as a template checklist for assuring the quality of a service's design and delivery. Each point in the guideline has, or links to additional guidance.
 
 ### Service patterns
 
