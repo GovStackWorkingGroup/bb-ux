@@ -6,7 +6,7 @@
 
 ## Service design standards
 
-* [Template standard](service-design-standards/template-standard.md)
+* [Checklist for effective UI/UX design](service-design-standards/checklist-for-effective-ui-ux-design.md)
 * [User centred design](service-design-standards/user-centred-design.md)
 * [Accessibility and inclusion](service-design-standards/accessibility-and-inclusion.md)
 * [Consistency](service-design-standards/consistency.md)
