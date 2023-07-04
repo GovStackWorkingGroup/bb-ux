@@ -7,7 +7,7 @@ description: >-
 
 # Check a users eligibility
 
-#### How it works
+## How it works
 
 To use this pattern you need to have:
 
@@ -15,7 +15,7 @@ To use this pattern you need to have:
 * A series of simple eligibility questions
 * An understanding of what existing data you can integrate with
 
-**Service information sheet**
+### **Service information sheet**
 
 Have a web page for your service where people can find the required information about the service. Such as requirements to access the service, actions and steps they need to start using your service. Check an example of a service information sheet.
 
