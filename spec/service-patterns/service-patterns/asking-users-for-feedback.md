@@ -1,4 +1,4 @@
-# Privacy policy
+# Asking users for feedback
 
 \[Wireframe]
 

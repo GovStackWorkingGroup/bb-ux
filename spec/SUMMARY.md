@@ -41,8 +41,9 @@
 
 * [Get started using patterns](service-patterns/get-started-using-patterns.md)
 * [Service patterns](service-patterns/service-patterns/README.md)
+  * [Asking users for feedback](service-patterns/service-patterns/asking-users-for-feedback.md)
   * [Find a service](service-patterns/service-patterns/find-a-service.md)
-  * [Check](service-patterns/service-patterns/check.md)
+  * [Check a users eligibility](service-patterns/service-patterns/check-a-users-eligibility.md)
   * [Register](service-patterns/service-patterns/register.md)
   * [Tell](service-patterns/service-patterns/tell.md)
   * [Request](service-patterns/service-patterns/request.md)
@@ -63,8 +64,6 @@
   * [Check answers](service-patterns/design-patterns/check-answers.md)
   * [Outcome](service-patterns/design-patterns/outcome.md)
   * [Sending notifications](service-patterns/design-patterns/sending-notifications.md)
-  * [Asking users for feedback](service-patterns/design-patterns/asking-users-for-feedback.md)
-  * [Check a users eligibility](service-patterns/design-patterns/check-a-users-eligibility.md)
 * [Use-case examples](service-patterns/use-case-examples.md)
 
 ***

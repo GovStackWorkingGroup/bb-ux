@@ -6,6 +6,8 @@ description: >-
 
 # Check answers
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 By allowing users to review, make changes, or confirm their answers, this pattern helps prevent errors in data submission.&#x20;
 
 The long term benefits of this pattern are:&#x20;
@@ -13,17 +15,11 @@ The long term benefits of this pattern are:&#x20;
 * users will be confident while using your service as they can visually confirm that all their information has been accurately captured
 * reducing incorrect and incomplete information will result in lower error rates in applications
 
-**When to use this pattern**
+## **When to use this pattern**
 
-* Use this pattern when you need to capture information from users on a long complex form that spans multiple pages or steps. Users may not recall all the information they provided in previous steps therefore presenting them with a single, concise page displaying all their data allows for easy review before final submission.
+Use this pattern when you need to capture information from users on a form that spans multiple pages or steps.&#x20;
 
-
-
-**Check answers page**
-
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-**How it works**
+## **How it works**
 
 * Use a clear heading that clearly communicates the purpose of the page, such as "Check your answers before sending your application"
 * Show the summary of questions and answers given. Ensure the information is organised and easy to scan.

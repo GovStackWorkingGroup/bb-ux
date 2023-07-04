@@ -7,6 +7,8 @@ description: >-
 
 # Check a users eligibility
 
+<figure><img src="../../.gitbook/assets/Example eligibility flow.png" alt=""><figcaption><p>Asking for eligibility flow diagram</p></figcaption></figure>
+
 ## How it works
 
 To use this pattern you need to have:
@@ -21,17 +23,17 @@ Have a web page for your service where people can find the required information 
 
 Ensure to include general rules and information about whether the service can be used such as age limit.
 
-**A series of simple eligibility questions**
+### **A series of simple eligibility questions**
 
 Present the user with a series of simple questions that can determine their eligibility. Use questions when the eligibility criteria for the service is complex and require detailed information to determine if a user qualifies.&#x20;
 
 Ask the user to provide information such as their age, location, employment status, income level, or other relevant details to your service. Follow the question page pattern.&#x20;
 
-**Automatically check if a user is eligible**
+### **Automatically check if a user is eligible**
 
 the system should automatically process the information provided and determine whether the user is eligible to access the feature or service.
 
-**An outcome page**
+### **An outcome page**
 
 * Eligibility outcome that clearly states whether the user is eligible or ineligible to access the service or feature.&#x20;
 * Reason for eligibility determination such as a clear explanation if the user is found to be ineligible. This can include information such as incomplete or incorrect information provided in the form, not meeting certain age or income requirements, or other criteria.
@@ -45,8 +47,6 @@ Present an outcome page to users to let them know the result of their eligibilit
 * Reason for eligibility determination such as a clear explanation if the user is found to be ineligible. This can include information such as incomplete or incorrect information provided in the form, not meeting certain age or income requirements, or other criteria.
 * Next steps depending on the outcome of the eligibility check. For example, if the user is found to be eligible, direct them to the next step which may be to register for the service. If they are found to be ineligible, direct them to another service or further guidance.&#x20;
 
-<figure><img src="../../.gitbook/assets/Example eligibility flow.png" alt=""><figcaption><p>Asking for eligibility flow diagram</p></figcaption></figure>
-
-**When to use this pattern**
+## **When to use this pattern**
 
 Services where eligibility criteria can be complex and may vary depending on the specific service or feature being accessed. By using the "check eligibility" pattern, users can quickly and easily determine whether they qualify for a particular service, without having to go through a lengthy application process or wait for manual approval.
