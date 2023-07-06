@@ -1,8 +1,6 @@
 # Get started using patterns
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>A diagram showing how the design patterns fit into the service patterns</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>A diagram showing how the design patterns fit into the service patterns</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>A diagram showing how the design patterns fit into the service patterns</p></figcaption></figure>
 
 ## **Considerations for choosing different patterns**
 
