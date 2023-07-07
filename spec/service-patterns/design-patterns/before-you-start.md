@@ -1,6 +1,6 @@
 # Before you start
 
-<figure><img src="../../.gitbook/assets/Before you start page.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Before you start page (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Before you start.png" alt=""><figcaption><p>Where the 'before you start' page fits in the journey</p></figcaption></figure>
 
