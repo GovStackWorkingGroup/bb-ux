@@ -12,7 +12,7 @@ description: >-
 
 </div>
 
-Related building block: [GovStack Consent building block](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/MhCVws4MKdm6FWXf006q/).
+Related building block: [GovStack Consent building block](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/MhCVws4MKdm6FWXf006q/).
 
 ## How it works
 
@@ -40,7 +40,7 @@ User journey considerations:
 
 * Consent should be grouped by purpose meaning you may need multiple consent pages&#x20;
 * You may need to ask for consent at the start of a service or throughout the user journey
-* you may need to offer users an opportunity to review and correct data using the [check your answers pattern](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/).
+* you may need to offer users an opportunity to review and correct data using the [check your answers pattern](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/).
 * You should test your service with users to find the journey that works for them.
 
 <div align="center" data-full-width="true">
