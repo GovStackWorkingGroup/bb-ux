@@ -17,7 +17,6 @@
   * [Support multiple languages](service-design-good-practice-guidelines/2.-accessibility-and-inclusion/support-multiple-languages.md)
   * [Foster a culture of inclusion](service-design-good-practice-guidelines/2.-accessibility-and-inclusion/foster-a-culture-of-inclusion.md)
   * [Involve a diverse user group in the design](service-design-good-practice-guidelines/2.-accessibility-and-inclusion/involve-a-diverse-user-group-in-the-design.md)
-  * [Test with a diverse user group](service-design-good-practice-guidelines/2.-accessibility-and-inclusion/test-with-a-diverse-user-group.md)
   * [Test for accessibility](service-design-good-practice-guidelines/2.-accessibility-and-inclusion/test-for-accessibility.md)
 * [3. Consistency](service-design-good-practice-guidelines/3.-consistency/README.md)
   * [Use simple language](service-design-good-practice-guidelines/3.-consistency/use-simple-language.md)

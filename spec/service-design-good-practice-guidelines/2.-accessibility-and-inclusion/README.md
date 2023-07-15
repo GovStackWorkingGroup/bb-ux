@@ -10,7 +10,7 @@ description: Build services that are usable and equitable for all
 
 ## Test your service with diverse users
 
-[Test with diverse users](test-with-a-diverse-user-group.md)
+[Test with diverse users](broken-reference)
 
 [Support multiple languages](support-multiple-languages.md)
 
