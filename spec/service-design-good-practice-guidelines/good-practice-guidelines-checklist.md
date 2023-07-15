@@ -30,7 +30,7 @@ Create user-friendly services that build trust
 
 ## 4. Technology choices
 
-Build services that are usable and equitable for all
+Making decisions based on needs
 
 * [ ] [Balance security and usability](4.-technology-choices/#balance-security-and-privacy)
 * [ ] [Optimise performance and connectivity](4.-technology-choices/#optimise-performance-and-connectivity)

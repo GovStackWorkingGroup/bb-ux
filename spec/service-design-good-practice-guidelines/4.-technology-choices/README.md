@@ -1,5 +1,5 @@
 ---
-description: Balancing technical and user needs
+description: Making decisions based on needs
 ---
 
 # 4. Technology choices

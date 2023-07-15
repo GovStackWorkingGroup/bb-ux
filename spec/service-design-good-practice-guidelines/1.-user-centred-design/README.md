@@ -6,7 +6,7 @@ description: Continuously improve services to meet the needs of users
 
 ## Understand user needs
 
-[Understand needs and and requirements](understand-needs-and-requirements.md)
+[Understand needs and requirements](understand-needs-and-requirements.md)
 
 [Involve others in the design process](involve-others-in-the-design-process.md)
 
