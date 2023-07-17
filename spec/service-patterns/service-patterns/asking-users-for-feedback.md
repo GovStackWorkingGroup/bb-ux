@@ -2,26 +2,4 @@
 
 <figure><img src="../../.gitbook/assets/Collect feedback.png" alt=""><figcaption><p>A flow diagram showing the points at which you might collect feedback about your catalogue or service</p></figcaption></figure>
 
-## How it works
-
-### **Collecting feedback for a service catalogue**
-
-
-
-### **Collecting feedback throughout a service**
-
-### **Collecting user satisfaction at the end of a service**
-
-
-
-## **When to use this pattern**
-
-\[content]&#x20;
-
-## When not to use this pattern
-
-\[content]&#x20;
-
-## Further reading
-
-\[links]&#x20;
+<table data-header-hidden><thead><tr><th width="131"></th><th></th></tr></thead><tbody><tr><td><strong>Steps</strong></td><td><p><strong>From a service catalogue</strong></p><p>Service catalogue pages > Perception survey</p><p></p><p><strong>During a service</strong></p><p>Service page > Feedback<br><br><strong>At the end point of a service</strong></p><p>End page > Satisfaction page</p></td></tr><tr><td><strong>Patterns</strong></td><td><a href="../design-patterns/perception-survey.md">Perception survey</a><br><a href="../design-patterns/feedback.md">Feedback</a><br><a href="../design-patterns/satisfaction.md">Satisfaction</a></td></tr></tbody></table>
