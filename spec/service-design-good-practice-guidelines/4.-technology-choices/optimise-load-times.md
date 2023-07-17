@@ -6,4 +6,4 @@ Optimise load times and page performance.
 2. Identify areas for improvement based on the test results.
 3. Implement improvements such as using compressed images, optimising front-end code, leveraging CDNs, etc.
 4. Retest and continue to optimise as needed.
-5. From a design perspective, only use necessary images, optimise images for the web, use CSS and SVG instead of images where possible, minimise the use of different font families, and optimize font loading if custom fonts are used.
+5. From a design perspective, only use necessary images, optimise images for the web, use CSS and SVG instead of images where possible, minimise the use of different font families, and optimise font loading if custom fonts are used.

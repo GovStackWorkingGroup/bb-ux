@@ -5,7 +5,7 @@ Choose proportionate security to control and monitor your technology programme. 
 ## Steps
 
 1. Evaluate the sensitivity of the data you're handling.
-2. Based on the evaluation, choose appropriate encryption methods and robust user authentication systems. Use the OWASP Cheat Sheet Series as a guide:
+2. Based on the evaluation, choose appropriate encryption methods and robust user authentication systems. Use the [OWASP Cheat Sheet](https://owasp.org/www-project-cheat-sheets/) Series as a guide:
    1. **Authentication Cheat Sheet:** This provides guidance on implementing secure authentication systems, which is a fundamental aspect of security.
    2. **Session Management Cheat Sheet:** This covers the best practices for handling user sessions securely.
    3. **Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet:** CSRF is a common web application vulnerability that your users should be aware of.

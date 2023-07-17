@@ -16,6 +16,6 @@ description: Create user-friendly services that build trust
 
 ## Document and share design decisions
 
-[Document your design decisions](document-design-decisions.md)
+[Document your design decisions](broken-reference)
 
 [Work in the open](work-in-the-open.md)

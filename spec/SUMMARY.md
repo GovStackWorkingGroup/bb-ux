@@ -20,7 +20,6 @@
   * [Test for accessibility](service-design-good-practice-guidelines/2.-accessibility-and-inclusion/test-for-accessibility.md)
 * [3. Consistency](service-design-good-practice-guidelines/3.-consistency/README.md)
   * [Use simple language](service-design-good-practice-guidelines/3.-consistency/use-simple-language.md)
-  * [Document design decisions](service-design-good-practice-guidelines/3.-consistency/document-design-decisions.md)
   * [Implement a consistent styleguide](service-design-good-practice-guidelines/3.-consistency/implement-a-consistent-styleguide.md)
   * [Work in the open](service-design-good-practice-guidelines/3.-consistency/work-in-the-open.md)
   * [Use design patterns](service-design-good-practice-guidelines/3.-consistency/use-design-patterns.md)
