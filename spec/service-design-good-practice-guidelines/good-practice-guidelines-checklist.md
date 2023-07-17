@@ -26,7 +26,8 @@ Create user-friendly services that build trust
 
 * [ ] [Use simple language](3.-consistency/#use-simple-language)
 * [ ] [Reuse existing styles and patterns](3.-consistency/#reuse-existing-styles-and-patterns)
-* [ ] [Document and share design decisions](3.-consistency/#document-and-share-design-decisions)
+* [ ] [Provide a joined-up experience](good-practice-guidelines-checklist.md#3.-consistency)
+* [ ] [Share design decisions](3.-consistency/#document-and-share-design-decisions)
 
 ## 4. Technology choices
 
@@ -34,5 +35,4 @@ Making decisions based on needs
 
 * [ ] [Balance security and usability](4.-technology-choices/#balance-security-and-privacy)
 * [ ] [Optimise performance and connectivity](4.-technology-choices/#optimise-performance-and-connectivity)
-* [ ] [Consider integration points](4.-technology-choices/#consider-integration-points)
 * [ ] [Design cross platform](4.-technology-choices/#design-cross-platform)

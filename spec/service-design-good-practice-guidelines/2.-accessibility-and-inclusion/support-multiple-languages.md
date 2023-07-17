@@ -4,7 +4,7 @@
 
 Analyse user demographics data to determine the languages spoken by your users. This data can be obtained through user surveys, usage data analysis, or from market research. You may also find legislation for languages government must support.
 
-Read more about [using data to make decisions](../1.-user-centred-design/monitor-performance.md).
+Read more about [using data to make decisions](../1.-user-centred-design/monitor-performance/).
 
 ### **Make a plan for multilingual support**
 
@@ -30,4 +30,4 @@ Options to switch languages are clearly visible and easily accessible across all
 
 If you're offering support for languages that are read right-to-left (like Arabic or Hebrew), make sure your user interface can handle that transition seamlessly. This is not just about text direction; UI elements and navigation should also mirror to offer a consistent RTL experience.
 
-Read more about [using frontend frameworks](../4.-technology-choices/use-a-frontend-framework.md).
+Read more about [using frontend frameworks](../3.-consistency/use-a-frontend-framework.md).

@@ -10,12 +10,8 @@ description: Build services that are usable and equitable for all
 
 ## Test your service with diverse users
 
-[Test with diverse users](broken-reference)
+[Involve a diverse user group in the design](involve-a-diverse-user-group-in-the-design.md)
 
 [Support multiple languages](support-multiple-languages.md)
-
-## Involve users in the design
-
-[Involve a diverse user group in the design](involve-a-diverse-user-group-in-the-design.md)
 
 [Foster a culture of inclusion](foster-a-culture-of-inclusion.md)

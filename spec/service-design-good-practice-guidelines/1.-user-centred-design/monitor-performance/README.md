@@ -22,19 +22,19 @@ Run a session with your team to [create a performance framework](https://dataing
 
 Use analytics tools to collect data on these KPIs. Google Analytics is a popular choice, but there are many other tools available. Make sure to set up your analytics tool to track the specific actions and events that correspond to your KPIs.
 
-[Read about how to set up Analytics](monitor-performance.md#set-up-analytics)
+[Read about how to set up Analytics](./#set-up-analytics)
 
 ### **Collect satisfaction data at end of user journey**
 
 Implement a mechanism to collect user satisfaction data at the end of key user journeys. This could be a survey or a simple rating system.
 
-[See the pattern for collecting feedback](../../service-patterns/service-patterns/asking-users-for-feedback.md)
+[See the pattern for collecting feedback](../../../service-patterns/service-patterns/asking-users-for-feedback.md)
 
 ### **Collect feedback throughout user journey**
 
 Don't wait until the end of the journey to collect feedback. Implement feedback mechanisms at key points throughout the user journey. This could be feedback forms on individual pages, live chat options, or proactive prompts asking users if they need help.
 
-[See the pattern for collecting feedback](../../service-patterns/service-patterns/asking-users-for-feedback.md)
+[See the pattern for collecting feedback](../../../service-patterns/service-patterns/asking-users-for-feedback.md)
 
 ### **Regularly review and act on data**
 

@@ -14,8 +14,14 @@ description: Create user-friendly services that build trust
 
 [Use design patterns](use-design-patterns.md)
 
-## Document and share design decisions
+[Use a frontend framework](use-a-frontend-framework.md)
 
-[Document your design decisions](broken-reference)
+## Provide a joined-up experience
+
+[Interoperability](interoperability.md)
+
+[Use integrations where possible](use-integrations.md)
+
+## Share design decisions
 
 [Work in the open](work-in-the-open.md)
