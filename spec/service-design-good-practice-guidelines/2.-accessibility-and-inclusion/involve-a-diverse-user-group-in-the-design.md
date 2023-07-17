@@ -48,3 +48,7 @@ In all aspects of your design process, ensure principles of Gender Equality and 
 > In a public healthcare service, implementing GESI principles led to the development of a more inclusive appointment scheduling system.&#x20;
 >
 > It was noticed that many women, especially from lower-income backgrounds, were unable to attend appointments during standard working hours due to their caregiving responsibilities. By extending service hours to evenings and weekends, and providing childcare services, the service became more accessible to this demographic, significantly increasing attendance rates.&#x20;
+
+Further reading:
+
+* [GESI Qualitative Framework by Oxford Insights](https://www.oxfordinsights.com/gesiqualitativeframework)
