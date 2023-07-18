@@ -1,5 +1,5 @@
 ---
-description: A checklist for assuring the quality of a service
+description: Assess the quality of a service following the points in this guide
 ---
 
 # Good practice guidelines (checklist)
