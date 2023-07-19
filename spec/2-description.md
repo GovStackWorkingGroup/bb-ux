@@ -8,7 +8,7 @@ description: >-
 
 ## Introduction
 
-The UI/UX working group has developed this guidance to kick-start the design and development of services using the GovStack building blocks.
+This document has been developed as a guidance to kick-start the design and development of services using the GovStack building blocks.
 
 This guidance supports teams identify and implement the foundations for designing user-centred, accessible, consistent and technically robust services.
 
