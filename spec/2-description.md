@@ -18,7 +18,7 @@ This guidance is intended to help teams align to the [GovStack Design Principles
 
 Specifications for how to implement accessible, responsive, multi-modal building blocks and providing a consistent service.
 
-* Guidelines for designing interfaces, like meeting WCAG accessibility guidelines
+* Guidelines for designing interfaces, like meeting [WCAG accessibility guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * Screen flows for common user journeys, like registration
 * Guidance on technical choices, like how to design for low bandwidth, high latency environments or unreliable connectivity, local storage and local persistence of data, security using DOMs etc
 * patterns for managing client-side validation
