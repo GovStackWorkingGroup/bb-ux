@@ -1,6 +1,6 @@
 # Optimise load times
 
-Optimise load times and page performance.
+In many contexts where GovStack building blocks are be used, internet bandwidth may be slow, and so it is particularly important to optimise load times and minimal data transfer.&#x20;
 
 1. Use [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) to test your web application's performance.
 2. Identify areas for improvement based on the test results.
