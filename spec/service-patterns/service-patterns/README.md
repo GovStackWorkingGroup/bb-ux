@@ -1,6 +1,13 @@
+---
+description: >-
+  Common design patterns can be combined to create a user journey through a
+  service, or a "service pattern" for example, 'find a thing' or 'apply for a
+  thing'.
+---
+
 # Service patterns
 
-## Example service flows
+## Example service patterns
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="./#apply-for-a-construction-permit">Apply for a construction permit</a></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
