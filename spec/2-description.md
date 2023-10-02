@@ -8,9 +8,9 @@ description: >-
 
 ## Introduction
 
-This document has been developed as a guidance to kick-start the design and development of UI/UX layer for using the GovStack applications and building blocks.
+This document has been developed as a guidance to kick-start the design and development of services using GovStack applications and building blocks.
 
-This guidance supports teams identify and implement the foundations for designing user-centred, accessible, consistent and technically robust Ui/UX across Govstack components.
+This guidance supports teams identify and implement the foundations for designing user-centred, accessible, consistent and technically robust services.
 
 This guidance is intended to help teams align to the [GovStack Design Principles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/govstack-design-principles) and the [Implementation Playbook](https://govstack.gitbook.io/implementation-playbook/).
 
