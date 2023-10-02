@@ -1,8 +1,8 @@
 ---
 description: >-
-  Common design patterns can be combined to create a user journey through a
-  service, or a "service pattern" for example, 'find a thing' or 'apply for a
-  thing'.
+  See how common design patterns (find, pay, register) can be combined to create
+  a user journey through a service, or a "service pattern" for example, 'find a
+  thing' or 'apply for a thing'.
 ---
 
 # Service patterns
