@@ -6,7 +6,11 @@ description: >-
 
 # Check answers
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Check your answers.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/Check your answers- Example implementation (1).png" alt=""><figcaption><p>Check your answers example implementation</p></figcaption></figure>
 
 By allowing users to review, make changes, or confirm their answers, this pattern helps prevent errors in data submission.&#x20;
 

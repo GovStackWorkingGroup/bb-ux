@@ -1,8 +1,12 @@
 # Satisfaction
 
+<div data-full-width="false">
 
+<figure><img src="../../.gitbook/assets/Satisfaction.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Satisfaction.png" alt=""><figcaption><p>Wireframe showing satisfaction page</p></figcaption></figure>
+</div>
+
+<figure><img src="../../.gitbook/assets/Satisfaction - Example implementation.png" alt=""><figcaption></figcaption></figure>
 
 ## **How it Works**
 

@@ -10,7 +10,17 @@ description: >-
 \
 **Outcome page**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Outcome page (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Outcome- Example implementation.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **How it Works:**
 

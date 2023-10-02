@@ -14,11 +14,29 @@ If you ask people for optional information, add ‘(optional)’ to the question
 
 #### &#x20;Question page
 
-<figure><img src="../../.gitbook/assets/Question page (1).png" alt=""><figcaption></figcaption></figure>
 
-**Service name**
 
-Indicate the service on the page banner to help people know and recognise which service they are on. This will help to assure users they are on the correct page and they can be confident to answer questions, especially those asking for personal information.
+<div>
+
+<figure><img src="../../.gitbook/assets/Question page.png" alt=""><figcaption><p>Wireframe of question page</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Question group page.png" alt=""><figcaption><p>Wireframe of question group</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Question given - Example implementation.png" alt=""><figcaption><p>Question  example implementation</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Question group - Example implementation.png" alt=""><figcaption><p>Question group example implementation</p></figcaption></figure>
+
+</div>
 
 **Back link**
 

@@ -43,23 +43,25 @@ User journey considerations:
 * you may need to offer users an opportunity to review and correct data using the [check your answers pattern](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/).
 * You should test your service with users to find the journey that works for them.
 
-<div align="center" data-full-width="true">
+<div align="center" data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/Consent for a single data set.png" alt=""><figcaption><p>A wireframe of consent for a single data set</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Consent for single data sets.png" alt=""><figcaption><p>A wireframe of consent for a single data set</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Consent for a single data set mockups.png" alt=""><figcaption><p>A mockup of consent for a single data set</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Consent for multiple data sets (1).png" alt=""><figcaption><p>A wireframe of conesnt for multiple data sets</p></figcaption></figure>
 
 </div>
 
-<div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/Consent for multiple data sets.png" alt=""><figcaption><p>A wireframe of consent multiple data sets</p></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Consent given - Example implementation (1).png" alt=""><figcaption><p>Consent given example implementation</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Consent for multiple data set mockups.png" alt=""><figcaption><p>A mockup of consent for multiple  data sets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Consent witheld - Example implementation (1).png" alt=""><figcaption><p>Consent withheld example implementation</p></figcaption></figure>
 
 </div>
 
