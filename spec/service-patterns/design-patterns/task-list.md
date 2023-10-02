@@ -7,9 +7,17 @@ description: >-
 
 # Task list
 
-Use clear labels for each step and provide a visual indicator of their progress. Show the order in which the steps should be completed and mark completed tasks.&#x20;
+Use clear labels for each step and provide a visual indicator of their progress. Show the order in which the steps should be completed and mark completed tasks. \\
 
-<figure><img src="../../.gitbook/assets/Task list (1).png" alt=""><figcaption><p>Components of the task list page</p></figcaption></figure>
+<div>
+
+<figure><img src="../../.gitbook/assets/Task list (2).png" alt=""><figcaption><p>Components of the task list page</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Task list- Example implementation (1).png" alt=""><figcaption><p>Task list example implementation</p></figcaption></figure>
+
+</div>
 
 ## How it works
 
