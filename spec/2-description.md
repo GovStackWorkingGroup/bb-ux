@@ -8,7 +8,7 @@ description: >-
 
 ## Introduction
 
-This document has been developed as a guidance to kick-start the design and development of services using GovStack applications and building blocks.
+This document has been developed as a guidance to kick-start the design and development of services that use and combine GovStack applications and building blocks as well as other components while maintaining a seamless and consistent user experience.
 
 This guidance supports teams identify and implement the foundations for designing user-centred, accessible, consistent and technically robust services.
 
