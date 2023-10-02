@@ -1,5 +1,9 @@
 # Other Resources
 
+## UX/UI switching guidance
+
+Technical guidance on how, useful for implementers looking to understand how screen level switching between Govstack applications/building blocks could work: [https://govstack-global.atlassian.net/wiki/spaces/GH/pages/270139400/UX+Switching](https://govstack-global.atlassian.net/wiki/spaces/GH/pages/270139400/UX+Switching)
+
 ## Key Decision Log
 
 A historical log of key decisions regarding this Building Block can be found here: [https://govstack-global.atlassian.net/wiki/spaces/GH/pages/264798242/Key+decision+log+UI+UX](https://govstack-global.atlassian.net/wiki/spaces/GH/pages/264798242/Key+decision+log+UI+UX)
