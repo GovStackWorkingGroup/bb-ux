@@ -44,7 +44,7 @@
   * [6.3 Asking users for feedback](service-patterns/6-service-patterns/6.3-asking-users-for-feedback.md)
   * [6.4 Find a service](service-patterns/6-service-patterns/6.4-find-a-service.md)
   * [6.5 Check a users eligibility](service-patterns/6-service-patterns/6.5-check-a-users-eligibility.md)
-  * [6.6 Make an application](service-patterns/6-service-patterns/6.6-make-an-application.md)
+  * [6.6 Make an application](service-patterns/service-patterns/make-an-application.md)
   * [6.7 Pay](service-patterns/6-service-patterns/6.7-pay.md)
 * [7 Design patterns](service-patterns/7-design-patterns/README.md)
   * [7.1 Feedback](service-patterns/7-design-patterns/7.1-feedback.md)
