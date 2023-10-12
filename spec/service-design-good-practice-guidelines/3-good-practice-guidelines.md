@@ -35,6 +35,6 @@ Create user-friendly services that build trust.
 
 Making decisions based on needs.
 
-* [ ] [Balance security and usability](4.-technology-choices/#balance-security-and-privacy)
-* [ ] [Optimise performance and connectivity](4.-technology-choices/#optimise-performance-and-connectivity)
-* [ ] [Design cross-platform](4.-technology-choices/#design-cross-platform)
+* [ ] [Balance security and usability](3.4-technology-choices/#balance-security-and-privacy)
+* [ ] [Optimise performance and connectivity](3.4-technology-choices/#optimise-performance-and-connectivity)
+* [ ] [Design cross-platform](3.4-technology-choices/#design-cross-platform)
