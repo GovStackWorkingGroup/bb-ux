@@ -23,3 +23,5 @@ description: >-
 
 [Monitor performance](3.1.3.2-monitor-performance/)
 
+[Set up analytics](3.1.3.2-monitor-performance/3.1.3.3-set-up-analytics.md)
+

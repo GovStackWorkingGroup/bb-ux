@@ -22,8 +22,6 @@ Run a session with your team to [create a performance framework](https://dataing
 
 Use analytics tools to collect data on these KPIs. Google Analytics is a popular choice, but there are many other tools available. Make sure to set up your analytics tool to track the specific actions and events that correspond to your KPIs.
 
-[Read about how to set up Analytics](./#set-up-analytics)
-
 ### **Collect satisfaction data at the end of the user journey**
 
 Implement a mechanism to collect user satisfaction data at the end of key user journeys. This could be a survey or a simple rating system.
