@@ -1,6 +1,6 @@
 # 3.1.3.2 Monitor performance
 
-Once you're ready to go live with your service, continuously monitor and evaluate the performance and usability of the service, and iterate the design accordingly to drive continuous improvement and optimise user experience.
+Once you're ready to go live, continuously monitor and evaluate the performance and usability of the service, and iterate the design accordingly to drive continuous improvement and optimise user experience.
 
 #### **Key performance indicators (KPIs)**
 
