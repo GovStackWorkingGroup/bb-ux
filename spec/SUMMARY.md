@@ -67,4 +67,4 @@
 
 ***
 
-* [9 Other Resources](10-other-resources.md)
+* [10 Other Resources](10-other-resources.md)
