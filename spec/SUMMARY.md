@@ -64,6 +64,7 @@
   * [7.15 Outcome](service-patterns/7-page-templates/7.15-outcome.md)
   * [7.16 Sending notifications](service-patterns/7-page-templates/7.16-sending-notifications.md)
 * [8 Use-case examples](service-patterns/8-use-case-examples.md)
+* [8 References](service-patterns/8-references.md)
 
 ***
 
